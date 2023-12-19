@@ -2,6 +2,7 @@ create a file .env in the project root
 and fill it as below:
 
 ANCHOR_PROVIDER_URL=https://api.mainnet-beta.solana.com
+
 ANCHOR_WALLET=my-keypair.json
 
 
